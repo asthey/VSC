@@ -1,0 +1,21 @@
+*{
+    font-family: 'Calibri', sans-serif;
+}
+body{
+    background-color: rgb(5, 38, 39) !important;
+}
+.awal img{
+    width: 750px;
+}
+.awal{
+    color: white;
+}
+.awal a{
+    color: orangered;
+}
+.awal h1{
+    font-size: 70px;
+}
+.awal h2{
+    color: orangered;
+}

@@ -1,0 +1,1 @@
+print ("hello anjing kamu ya")
