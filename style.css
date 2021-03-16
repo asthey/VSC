@@ -1,21 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Amiri:ital@1&family=Permanent+Marker&family=Volkhov&display=swap');
+.awal span{
+  color: red !important;
+  font-size: xx-large;
+  font-family: 'Acme', sans-serif;
+}
 *{
-    font-family: 'Calibri', sans-serif;
+  text-align: center;
+  background-color:darkgrey;
 }
-body{
-    background-color: rgb(5, 38, 39) !important;
-}
-.awal img{
-    width: 750px;
-}
-.awal{
-    color: white;
-}
-.awal a{
-    color: orangered;
-}
-.awal h1{
-    font-size: 70px;
-}
-.awal h2{
-    color: orangered;
+.judul{
+  background-color: darkslategray;
 }
