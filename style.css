@@ -1,13 +1,43 @@
 @import url('https://fonts.googleapis.com/css2?family=Acme&family=Amiri:ital@1&family=Permanent+Marker&family=Volkhov&display=swap');
-.awal span{
+.sectionatas span{
   color: red !important;
   font-size: xx-large;
   font-family: 'Acme', sans-serif;
 }
 *{
-  text-align: center;
   background-color:darkgrey;
 }
 .judul{
-  background-color: darkslategray;
+  background-color: red;
+}
+.jd2{
+  background-color: white;
+}
+.sectionatas{
+  text-align: center;
+  align-content: center;  
+}
+.sectionbawah{
+  display: flex;
+  flex-wrap: wrap;
+  text-align: start;
+  justify-content: start;
+  border: 3px solid black;
+}
+
+@media(min-width: 992px){
+    
+  .sectionatas{
+      color:darkred;
+  }
+
+  .sectionbawah{
+      display: flex;
+      text-align: start;
+      justify-content: center;
+  }
+
+  table, th, td{
+      border: 1px solid black;
+  }
 }
